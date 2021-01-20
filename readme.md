@@ -38,6 +38,5 @@
 
 ![](https://raw.githubusercontent.com/jogeen/StopCoding/master/image/step3.png)
 
-### My Other Plugins
-
-- [MarkBook](https://github.com/jogeen/MarkBook)
+### A complimentary tutorial on the IDEA tool
+Download address:https://pan.baidu.com/s/1gfeX3hD
