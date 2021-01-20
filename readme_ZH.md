@@ -34,5 +34,5 @@
 - Step3. 然后快乐的Coding吧，再不用担心自己会沉迷了。工作时间结束,她会弹出下框进行提醒,当然,这个框是关不掉的.只有你休息了足够的时间它才会自动关闭.
 
 ![](https://raw.githubusercontent.com/jogeen/StopCoding/master/image/step3.png)
-### 我的其它插件
-[MarkBook](https://github.com/jogeen/MarkBook)
+### 赠送一套idea工具学习教程
+下载地址:https://pan.baidu.com/s/1gfeX3hD
